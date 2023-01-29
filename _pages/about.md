@@ -2,22 +2,22 @@
 layout: about
 title: about
 permalink: /
-subtitle: Mathematical Ecologist and Plant Disease Epidemiologist. 
+subtitle:  
 
 profile:
   align: right
-  image: fred.jpg
+  image: logo.png
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>L'Institut Agro</p> 
-    <p>Ecology Department</p>
-    <p>35042 Rennes, France</p>
+  address:
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
+
+
+nav_order: 1
 ---
 
-I am Associate Professor in Quantitative Plant Disease Epidemiology at [L'Institut Agro](https://www.institut-agro.fr/fr) in Rennes, France. I work at the interface between Mathematical Ecology and Plant Disease Epidemiology. I am a member of the [Demecology](https://www6.rennes.inrae.fr/igepp_eng/Research-teams/Demecology) (Dynamics, Evolution, Modelling, Ecology) research group of the Institute of Genetics, Environment and Plant Protection ([IGEPP](https://www6.rennes.inrae.fr/igepp_eng/)).
+Our working group brings together quantitative plant disease epidemiologists from the [Institute of Genetics, Environment and Plant Protection](https://www6.rennes.inrae.fr/igepp_eng/), France. We study of the spread of plant pathogens, their vectors and pests at the field or landscape scale, by mobilizing the resources of modeling, experimentation and data exploitation. 
 
-Short bio: I was first trained as a telecommunications engineer in Brest, Brittany, France. In 2007, I received a PhD in automatic control from the University of Nice, France (supervisors: [Pierre Bernhard](http://www-sop.inria.fr/members/Pierre.Bernhard/index_en.shtml) and [Eric Wajnberg](http://www2.sophia.inra.fr/perso/wajnberg/index.htm)). During my doctoral thesis and then as a postdoctoral researcher at the University of Alberta, Canada (with [Mark A. Lewis](http://grad.biology.ualberta.ca/mlewis/mark-lewis-2/)), I explored differential games and their applications to behavioral ecology. Back to Brittany, France, I joined *L'Institut Agro* in 2008 as a faculty member in the department of ecology in Rennes. In 2017, I obtained my *Habilitation* in ecology and evolution from U. Rennes.
+This website is under construction. It will list the webinars organized by the working group, ongoing projects, publications, online applications, and opportunities for students and postdocs.
